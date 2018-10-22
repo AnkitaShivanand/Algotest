@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2018-10-22T03:19:41" hostname="DESKTOP-K75KCGH" time="0.044">
+  <properties/>
+  <testcase name="BubbleSortCoverageRandomInput" classname="test.java.AlgoTest" time="0.003"/>
+  <testcase name="BubbleSortCoverageWhenInputIsOneElement" classname="test.java.AlgoTest" time="0.014"/>
+  <testcase name="selectionSortWithInputIsNullThrowsNullPointerExceptionAsRequired" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="mergeSortWithInputIsNullThrowsNullPointerExceptionAsRequired" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="insertionSortWithInputIsNullThrowsNullPointerExceptionAsRequired" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="MethodForCoverageAscendingInputs" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="comparingBubbleSortWithAllSort" classname="test.java.AlgoTest" time="0.011"/>
+  <testcase name="bubbleSortWithInputIsNullThrowsNullPointerExceptionAsRequired" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="BubbleSortCoverageWhenInputIsNull" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="quickSortWithInputIsNullThrowsNullPointerExceptionAsRequired" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="MethodForCoverageDescendingInputs" classname="test.java.AlgoTest" time="0.0"/>
+  <system-out><![CDATA[10
+10
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
