@@ -15,7 +15,7 @@ import main.java.SortDemoData;
 
 public class SortDemoTest{
 	SortDemoData data = new SortDemoData();
-	public SortDemo sortObj = new SortDemo();
+	//public SortDemo sortObj = new SortDemo();
 
 
 	/**
@@ -81,14 +81,14 @@ public class SortDemoTest{
 		assertTrue(data.myArray[2].key == data2.myArray[2].key );
 	}
 
-	
-	@Test
-	public void testLaunchApplet()
-	{
-		sortObj.init();
-		sortObj.displayHelp();
-		sortObj.runDemo();
-		
-	}
+//	
+//	@Test
+//	public void testLaunchApplet()
+//	{
+//		sortObj.init();
+//		sortObj.displayHelp();
+//		sortObj.runDemo();
+//		
+//	}
 	// TODO: Include your test cases below
 }
